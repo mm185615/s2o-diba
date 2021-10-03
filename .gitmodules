@@ -1,0 +1,6 @@
+[submodule "example-submodule"]
+	path = example-submodule
+	url = https://github.com/githubtraining/example-submodule
+[submodule "s2o-diba/comp-one"]
+	path = s2o-diba/comp-one
+	url = https://github.com/mm185615/comp-one
