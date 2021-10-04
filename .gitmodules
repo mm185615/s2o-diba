@@ -1,8 +1,8 @@
 [submodule "comp-one"]
 	path = comp-one
 	url = https://github.com/mm185615/comp-one
-	branch = main
+	branch = feature_branch
 [submodule "comp-two"]
 	path = comp-two
 	url = https://github.com/mm185615/comp-two
-	branch = main
+	branch = feature_branch
