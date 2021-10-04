@@ -1,0 +1,6 @@
+[submodule "comp-one"]
+	path = comp-one
+	url = https://github.com/mm185615/comp-one
+[submodule "comp-two"]
+	path = comp-two
+	url = https://github.com/mm185615/comp-two
